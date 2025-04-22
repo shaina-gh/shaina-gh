@@ -17,10 +17,10 @@
 - Email: shainaofficia10@gmail.com  
 
 ## 🌐 Coding Habits:
-> ✍️ I write code to understand problems deeply — not just to make things work.
-> 🔍 I value clarity and structure over clever one-liners (unless they're really clever).
-> 🧪 I experiment a lot — sometimes that leads to bugs, but always to better learning.
-> 🔁 Refactoring is my favourite part — turning messy drafts into clean, efficient solutions.
+- ✍️ I write code to understand problems deeply — not just to make things work.
+- 🔍 I value clarity and structure over clever one-liners (unless they're really clever).
+- 🧪 I experiment a lot — sometimes that leads to bugs, but always to better learning.
+- 🔁 Refactoring is my favourite part — turning messy drafts into clean, efficient solutions.
 
 ---
 
