@@ -1,5 +1,5 @@
 # 👋 Hi, I am Shaina  
-> Chennai | [Portfolio](https://shaina–portfolio.vercel.app/) | [LinkedIn](https://linkedin.com/in/shaina05)
+> [Portfolio](https://shaina–portfolio.vercel.app/) | [LinkedIn](https://linkedin.com/in/shaina05)
 
 ---
 
