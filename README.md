@@ -6,7 +6,7 @@
 ## 💫 About Me:
 - 🖥️ Web Developer & Tech Generalist  
 - 💡 Passionate about all things computers!
-- 🎓 Pursuing a **B.Tech in Computer Science Engineering** at Vellore Institute of Technology (Graduating 2026)
+- 🎓 Pursuing a **B.Tech in Computer Science Engineering**
   
 ---
 
@@ -17,7 +17,7 @@
 - Email: shainaofficia10@gmail.com  
 
 ## 🌐 Coding Habits:
-- ✍️ I write code to understand problems deeply — not just to make things work.
+- ✍️ I write code to understand problems deeply, not just to make things work.
 - 🔍 I value clarity and structure over clever one-liners (unless they're really clever).
 - 🧪 I experiment a lot — sometimes that leads to bugs, but always to better learning.
 - 🔁 Refactoring is my favourite part — turning messy drafts into clean, efficient solutions.
